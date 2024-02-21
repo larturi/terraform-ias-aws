@@ -1,4 +1,4 @@
 vpc_tags = {
   Name    = "ccVPC",
-  Project = "LNA TF Demo"
+  Project = "CC TF Demo"
 }
